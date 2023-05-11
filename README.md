@@ -1,0 +1,1 @@
+# Chrome-extension-that-can-get-session-data-from-a-website
